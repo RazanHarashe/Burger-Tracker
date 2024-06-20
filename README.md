@@ -1,4 +1,4 @@
-# Burger Tracker1
+# Burger Tracker
 
 Burger Tracker is a simple Spring Boot web application that allows users to track their burger experiences. Users can add new burgers with their name, the restaurant where they were eaten, a rating, and any notes about the experience.
 
